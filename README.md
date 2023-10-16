@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+### I'm Darkomier!
 
+### I like to play different games. Anything from fps to mmo or strategy games.
+### I'm currently in school and haven't made anything grand, tho I am working on a game with my friend.
 <!--
 **Darkomier/Darkomier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
